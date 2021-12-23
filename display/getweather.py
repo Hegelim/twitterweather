@@ -1,7 +1,7 @@
 from pyowm.owm import OWM
 from . import utils
 
-APIKEY = 'c793c1dd5e4c10cfa3d5a520cd1161bc'
+APIKEY = ''
 
 
 def get_realtime_weather():
