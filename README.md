@@ -40,6 +40,8 @@ After installation, you can start the Django server and see the results from loc
 ```shell
 python .\manage.py runserver
 ```
+## Report
+You can view our final report [here](https://www.graphen.ai/course/bigdata/reports/202112-49.pdf)
 
 ## Further Info
 You can check further info in the articles directory.
